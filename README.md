@@ -1,3 +1,4 @@
+![Alt text](docs/RxTM_Github.png?raw=true "RxTM Banner")
 # What is this?
 The RichterX TimeMachine (RxTM) is a global earthquake forecast database that you can query using an API. The forecasts are obtained by training a statistical forecasting model (Epidemic Type Aftershock Sequence) retrospectively.
 
