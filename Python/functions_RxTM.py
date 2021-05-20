@@ -68,7 +68,7 @@ def gen_predList(NUM_pred, region='global', yearStart=1990, yearEnd=2020):
     }
     
     fun_nm = sys._getframe().f_code.co_name;
-    print('[',fun_nm,'] => Generated', len(predList['m']), 'predictions');
+    print('[',fun_nm,'] => Generated', NUM_pred, 'predictions');
     return predList;
 
     
