@@ -43,7 +43,7 @@ def gen_predList(NUM_pred, region='global', yearStart=1990, yearEnd=2020):
     
     lim_dur = [1,30];
     lim_lat = bbox[region]['lat'];
-    lim_lon = bbox[region]['lat'];
+    lim_lon = bbox[region]['lon'];
     lim_rad = [30,300];
     
     #Assign random prediction parameters
