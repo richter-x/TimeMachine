@@ -230,9 +230,6 @@ def get_RxTM_prob(predList, API_TOKEN, API_LIMIT):
     """
     
     API_URL     = 'https://www.richterx.com/api/rest.php/1/tmachine';
-    #API_TOKEN   = 'testToken'; #replace with your own token
-    #API_LIMIT   = 60;#request limit per minute
-    
     REQ_headers = {'content-type': 'application/json'};
     NUM_pred    = len(predList['p']);
     
