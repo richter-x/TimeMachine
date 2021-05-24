@@ -11,8 +11,8 @@ If you are interested in developing earthquake prediction algorithms RxTM is a m
 In this way you can train and test your earthquake prediction algorithm on the already available data, save time and proceed to prospective testing with greater confidence.
 
 # How do I use this?
-We have a detailed tutorial where you can run and intract with the code provided in this repository.
-Click on the following link to go to the tutorial.
+We have a [detailed tutorial](https://www.richterx.com/wiki/index.php/RichterX_TimeMachine) where you can run and intract with the code provided in this repository.
+You can also refer to the [RichterX API documentation](https://www.richterx.com/wiki/index.php/RichterX_API) if you want to develop your own API calling functions.
 
 Please report any issues that you encounter.
 
