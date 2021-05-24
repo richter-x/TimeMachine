@@ -1,6 +1,6 @@
 # Installing
 
-Download the repository
+[Download] (https://github.com/richter-x/TimeMachine/archive/refs/heads/main.zip) the repository
 
 Extract the `Python` folder 
 
